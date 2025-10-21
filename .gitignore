@@ -1,0 +1,8 @@
+.vscode/
+*.spec
+build/
+__pycache__/
+*.pyc
+*.toc
+*.pyz
+*.txt
